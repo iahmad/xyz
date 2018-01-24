@@ -1,0 +1,27 @@
+{
+    "name": "iahmad/xyz",
+    "description": "",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Ahmad Alahmadi",
+            "email": "hi@ahmad.im"
+        }
+    ],
+    "extra": {
+        "module-dir": "apps",
+        "laravel": {
+            "providers": [
+                "Apps\\Xyz\\Providers\\XyzServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Apps\\Xyz\\": ""
+        }
+    }
+}

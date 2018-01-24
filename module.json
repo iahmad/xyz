@@ -1,0 +1,16 @@
+{
+    "name": "Xyz",
+    "alias": "xyz",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Apps\\Xyz\\Providers\\XyzServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
