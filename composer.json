@@ -9,7 +9,6 @@
         }
     ],
     "extra": {
-        "module-dir": "apps",
         "laravel": {
             "providers": [
                 "Apps\\Xyz\\Providers\\XyzServiceProvider"
